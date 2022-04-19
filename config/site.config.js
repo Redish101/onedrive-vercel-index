@@ -9,7 +9,7 @@ module.exports = {
   // your email being exposed in public.
   userPrincipalName: process.env.NEXT_PUBLIC_USER_PRINCIPLE_NAME || 'admin@redish101.tk',
   
-  name: 'Admin@redish101.tk',
+  name: 'Admin@redish101.onmicrosoft.com',
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
